@@ -48,7 +48,7 @@
 		"name": "Function Argument",
 		"scope": "variable.parameter, meta.function-call.arguments",
 		"settings": {
-		  "foreground": "#d35393"
+		  "foreground": "#d35373"
 		}
 	  },
 	  {
@@ -599,7 +599,7 @@
 	  "inputOption.activeBorder": "#e6eafc30",
 	  "list.activeSelectionBackground": "#25293d",
 	  "list.activeSelectionForeground": "#8890fc",
-	  "list.dropBackground": "#F04F7880",
+	  "list.dropBackground": "#724ff080",
 	  "list.focusBackground": "#e6eafc20",
 	  "list.focusForeground": "#e6eafc",
 	  "list.highlightForeground": "#8890fc",
