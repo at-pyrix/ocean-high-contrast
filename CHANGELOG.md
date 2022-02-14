@@ -1,9 +1,6 @@
 # Change Log
 
-All notable changes to the "ocean-high-contrast" extension will be documented in this file.
+Last updated: 14/02/2022
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+This is a minor release with some color changes.
 
-## [Unreleased]
-
-- Initial release

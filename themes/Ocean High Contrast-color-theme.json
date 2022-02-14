@@ -27,7 +27,7 @@
 		"name": "Boolean",
 		"scope": "constant.language.boolean",
 		"settings": {
-		  "foreground": "#f17aff"
+		  "foreground": "#43deff"
 		}
 	  },
 	  {
