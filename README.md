@@ -1,9 +1,18 @@
+![](https://i.imgur.com/zlqxkN7.png)
 # Ocean High Contrast
 
-Ocean High Contrast is a dark theme with bright and vibrant colors and a clean, minimalistic design.
+Ocean High Contrast is a dark theme with bright and vibrant colors and a clean, minimalistic design. 
 
+## Installation via VS Code
 
-# Screenshots
+- Open `Extensions` sidebar panel in VS Code.
+- View → Extensions
+- Search for `Ocean High Contrast`
+- Click `Install` to install it
+- Click `Set Color Theme` and select `Ocean High Contrast`.
+- Done
+
+## Screenshots
 
 ![](https://i.imgur.com/P2hJzZK.png)
 ### Json
