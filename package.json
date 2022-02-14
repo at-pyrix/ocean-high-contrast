@@ -1,0 +1,21 @@
+{
+    "name": "ocean-high-contrast",
+    "displayName": "Ocean High Contrast",
+    "description": "A vscode theme inspired from Material theme Ocean High Contrast.",
+    "version": "2.0.0",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ocean High Contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ocean High Contrast-color-theme.json"
+            }
+        ]
+    }
+}
