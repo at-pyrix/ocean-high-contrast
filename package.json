@@ -1,6 +1,7 @@
 {
     "name": "ocean-high-contrast",
     "displayName": "Ocean High Contrast",
+    "author": "NotYasho",
     "description": "A vscode theme inspired from Material theme Ocean High Contrast.",
     "version": "2.2.0",
     "engines": {
