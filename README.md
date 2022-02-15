@@ -1,4 +1,4 @@
-![](https://i.imgur.com/zlqxkN7.png)
+![](images/favicon.png)
 # Ocean High Contrast
 
 Ocean High Contrast is a dark theme with bright and vibrant colors and a clean, minimalistic design. 

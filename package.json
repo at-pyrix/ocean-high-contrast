@@ -2,12 +2,12 @@
     "name": "ocean-high-contrast",
     "displayName": "Ocean High Contrast",
     "author": "NotYasho",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Yasho022/ocean-high-contrast.git"
-      },
     "publisher": "NotYasho",
     "icon": "images/favicon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://www.github.com/Yasho022/ocean-high-contrast.git"
+    },
     "description": "A vscode theme inspired from Material theme Ocean High Contrast.",
     "version": "3.0.0",
     "engines": {
