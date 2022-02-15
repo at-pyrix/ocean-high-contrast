@@ -15,16 +15,16 @@ Ocean High Contrast is a dark theme with bright and vibrant colors and a clean, 
 
 |   | Color | Hex | Scope |
 | --- | --- | --- | --- |
-| <img src=images/red.png width=30>| Red | #F04F6A | Arguments |
-| <img src=images/orange.png width=30px>| Orange | #FE6A29 | Int, float, numbers |
-| <img src=images/yellow.png width=30px>| Yellow | #F0B22D | Class |
-| <img src=images/green.png width=30px>| Green | #6BE247 | Strings | 
-| <img src=images/blue.png width=30px>| Blue | #03BBF5 | Function |
-| <img src=images/cyan.png width=30px>| Cyan | #00C3FF | Keywords, Boolean |
-| <img src=images/purple.png width=30px>| Purple | #9466FF | Storage |
-| <img src=images/white.png width=30px>| White | #C0C6E4 | Variables |
-| <img src=images/gray.png width=30px>| Gray | #464B5D | Comments |
-| <img src=images/black.png width=30px>| Black | #0B0C13 | Background |
+| <img src="images/red.png" width=30>| Red | #F04F6A | Arguments |
+| <img src="images/orange.png" width=30px>| Orange | #FE6A29 | Int, float, numbers |
+| <img src="images/yellow.png" width=30px>| Yellow | #F0B22D | Class |
+| <img src="images/green.png" width=30px>| Green | #6BE247 | Strings | 
+| <img src="images/blue.png" width=30px>| Blue | #03BBF5 | Function |
+| <img src="images/cyan.png" width=30px>| Cyan | #00C3FF | Keywords, Boolean |
+| <img src="images/purple.png" width=30px>| Purple | #9466FF | Storage |
+| <img src="images/white.png" width=30px>| White | #C0C6E4 | Variables |
+| <img src="images/gray.png" width=30px>| Gray | #464B5D | Comments |
+| <img src="images/black.png" width=30px>| Black | #0B0C13 | Background |
 
 ### Screenshots
 

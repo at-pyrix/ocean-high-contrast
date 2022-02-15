@@ -1,8 +1,8 @@
 {
     "name": "ocean-high-contrast",
     "displayName": "Ocean High Contrast",
-    "author": "NotYasho",
-    "publisher": "Yasho022",
+    "author": "Yasho022",
+    "publisher": "NotYasho",
     "icon": "images/favicon.png",
     "repository": {
         "type": "git",
