@@ -9,8 +9,7 @@
         "url": "https://www.github.com/Yasho022/ocean-high-contrast.git"
     },
     "description": "A vscode theme inspired from Material theme Ocean High Contrast.",
-    "version": "2.5.0",
-    "license": "MIT",
+    "version": "3.0.0",
     "engines": {
         "vscode": "^1.64.0"
     },
