@@ -30,7 +30,7 @@ Ocean High Contrast is a dark theme with bright and vibrant colors and a clean, 
 
 ![](images/screenshot1.png)
 ![](images/screenshot2.png)
-![](https://i.imgur.com/4lV70yM.png)
+![](images/code-preview.png)
 ![](images/screenshot3.png)    
 
 ### Specifications
@@ -104,6 +104,6 @@ For example, i'm replacing it with `#fa2f62`
 ```
 
 #### Preview
-![](https://i.imgur.com/hNQhoF6.png)
+![](images/screenshot4.png)
 
 *This theme was inspired by the [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) Ocean High Contrast*
