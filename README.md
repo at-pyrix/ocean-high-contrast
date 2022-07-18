@@ -6,7 +6,7 @@ Ocean High Contrast is a dark theme with bright and vibrant colors and a clean, 
 
 ![1](images/screenshot1.png)
 ![2](images/screenshot2.png)
-![3](images/code-preview.png)
+![3](https://i.imgur.com/e5g0xUu.png)
 ![4](images/screenshot3.png)
 
 ## Changing the Accent color
