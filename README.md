@@ -58,3 +58,7 @@ For example, here I'm replacing it with `#fa2f62`
 ![Screenshot of changed colors](images/screenshot4.png)
 
 _This theme is a fork of the [Material Theme's](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) Ocean High Contrast_
+
+---
+Read my blog: https://notyasho.netlify.app/blogs
+[Contact Me](https://notyasho.netlify.app/contact)
